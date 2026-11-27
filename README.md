@@ -30,5 +30,4 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/FindIT-Campus-Lost-And-Found.git
-   cd FindIT-Campus-Lost-And-Found
+   git clone (https://github.com/mominsana0510-bot/FindIT-Lost-and-Found)
